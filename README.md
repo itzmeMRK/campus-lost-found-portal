@@ -9,6 +9,12 @@
 
 Built with **Java Swing + MySQL** ,Solution for the biggest campus challenge.
 
+![Java](https://img.shields.io/badge/Java-17+-ED8B00?logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-GUI-007396?logo=java&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+
 ---
 
 ## 🌟 Key Features
@@ -66,7 +72,7 @@ MIT License — feel free to use, modify, and share!
 
 ---
 
-## ❤️ Made With
+## ⚙️ Made With
 
 - Java
 - MySQL
