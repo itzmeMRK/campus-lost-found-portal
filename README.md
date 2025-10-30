@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <div align="center">
-  <img src="https://via.placeholder.com/1200x400/2c3e50/ffffff?text=Campus+Lost+%26+Found+Portal" alt="Project Banner" width="100%"/>
+  <img src="img/CAMPUS.png" alt="Project Banner" width="100%"/>
 </div>
 
 # 🏫 Campus Lost & Found Portal
@@ -27,9 +27,9 @@ Built with **Java Swing + MySQL** ,Solution for the biggest campus challenge.
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/400x250/3498db/ffffff?text=Main+Menu" alt="Welcome Panel" width="30%" style="margin: 5px"/>
-  <img src="https://via.placeholder.com/400x250/e74c3c/ffffff?text=Report+Form" alt="Main Menu" width="30%" style="margin: 5px"/>
-  <img src="https://via.placeholder.com/400x250/2ecc71/ffffff?text=Admin+Panel" alt="Report Form" width="30%" style="margin: 5px"/>
+  <img src="img/main-menu.png" alt="Main Menu" width="30%" style="margin: 5px"/>
+  <img src="img/report-form.png" alt="Report Form" width="30%" style="margin: 5px"/>
+  <img src="img/admin.png" alt="Admin Access" width="30%" style="margin: 5px"/>
 </div>
 
 ---
@@ -78,4 +78,5 @@ MIT License — feel free to use, modify, and share!
 ## 🧑‍💻 Author
 
 Rinshad 
-linkedin| [www.linkedin.com/in/rinshad-huzain-297625269](#)
+
+linkedin [www.linkedin.com/in/rinshad-huzain-297625269](#)
